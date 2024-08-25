@@ -20,11 +20,11 @@ const Footer = () => {
         <h3>Contact</h3>
         <div className="footer_right_info">
           <LocalPhone />
-          <p>+1 234 567 890</p>
+          <p>+91 967 552 9111</p>
         </div>
         <div className="footer_right_info">
           <Email />
-          <p>dreamnest@support.com</p>
+          <p>code4learnn@gmail.com</p>
         </div>
         <img src="/assets/payment.png" alt="payment" />
       </div>
